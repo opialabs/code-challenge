@@ -3,7 +3,7 @@
 Using https://openweathermap.org/api or similar API, create a simple web app which supports the following functionality.
 
 * User types in a city name (autocomplete) and it shows the current weather along with next 3/5 days prediction (the more information you show the better) in a structured way.
-* Caches the result for searched cities for 24 hours so another API lookup isn't necessary. Needless to say if there is another query for the same city and if there is a cache hit the data should be loaded from cache.
+* Caches the result for searched cities for 24 hours so another API lookup isn't necessary if the same city is searched again within 24 hours of previous search. 
 * Stores all searched cities in DB along with the time at which search was done. Based on stored data, show simple graphical stats like most searched cities (along with count) in last 24 hours and last 7 days. Add a separate page/route for displaying this section.
 * Wow us if you can by doing something extra. Totally optional ;)
 
