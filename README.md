@@ -10,5 +10,5 @@ Using https://openweathermap.org/api or similar API, create a simple web app whi
 # Notes
 
 * Use your judgement in case you aren't sure about how a particular thing needs to be shown/implemented or which libraries to use.
-* No design/styling work needed but would be good if an open source library is used with ready to use design elements/components.
+* No design/styling work needed but would be good if an open source library/UI-toolkit is used with ready to use design elements/components.
 * To submit your code, create a public repo on Github using your account and share the repo link to our email at which you have been corresponding with us. Note that your repo should include clear instructions on how to setup/install the app.
